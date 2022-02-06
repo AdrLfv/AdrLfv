@@ -3,9 +3,6 @@ I am passionate about science, space, music, technology, psychology, and video g
 
 I am also working on an augmented mirror project, which calculates and displays a projection of the user's coordinates on a screen. 
 It includes different modules, including a dance learning and a sign language program.
-I have implemented this latter module by implementing a small tutorial and an Artificial Intelligence coded by myself, 
-allowing to display animated models of sign language movements, which the user must redo afterward, 
-and analyze the latter's gestures to verify that he has learned well.
 
 I like to explore horizons, touch, and be interested in everything because I think you can't like what you don't know. 
 I always want to find and master tools to express my creativity. 
